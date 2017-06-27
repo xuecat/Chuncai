@@ -2,7 +2,10 @@
 For myself Blog
 
 ### Function
-Add Tuling API
+* Add Tuling API
+* Random say joke and story
+
+
 
 Demo: https://xuecat.github.io/
 
