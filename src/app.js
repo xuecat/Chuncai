@@ -28,14 +28,14 @@ $.chuncai = function(option) {
             },
             "和春菜聊天": 1,
             "传送门": {
-                "博客园": function() {
-                    window.open("http://www.cnblogs.com");
+                "博客": function() {
+                    window.open("https://xuecat.github.io");
                 },
-                "My博客园主页": function() {
-                    window.open("http://www.cnblogs.com/lianmin");
+                "Windbg": function() {
+                    window.open("https://xuecat.github.io/2016/12/01/200/");
                 },
-                "个人博客": function() {
-                    window.open("http://www.wqnmlgbd.net");
+                "Git": function() {
+                    window.open("https://xuecat.github.io/2015/01/06/100/");
                 }
             },
             "隐藏春菜": function() {
